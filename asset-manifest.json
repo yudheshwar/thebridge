@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/thebridge/static/css/main.c26d193d.chunk.css",
+    "main.js": "/thebridge/static/js/main.733317b4.chunk.js",
+    "main.js.map": "/thebridge/static/js/main.733317b4.chunk.js.map",
+    "runtime-main.js": "/thebridge/static/js/runtime-main.7b5b9171.js",
+    "runtime-main.js.map": "/thebridge/static/js/runtime-main.7b5b9171.js.map",
+    "static/js/2.b374598e.chunk.js": "/thebridge/static/js/2.b374598e.chunk.js",
+    "static/js/2.b374598e.chunk.js.map": "/thebridge/static/js/2.b374598e.chunk.js.map",
+    "index.html": "/thebridge/index.html",
+    "precache-manifest.ea2022633cae396bb4d94e195c83604a.js": "/thebridge/precache-manifest.ea2022633cae396bb4d94e195c83604a.js",
+    "service-worker.js": "/thebridge/service-worker.js",
+    "static/css/main.c26d193d.chunk.css.map": "/thebridge/static/css/main.c26d193d.chunk.css.map",
+    "static/js/2.b374598e.chunk.js.LICENSE.txt": "/thebridge/static/js/2.b374598e.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/thebridge/static/media/illustration-section-02.d41d8cd9.svg",
+    "static/media/logo.png": "/thebridge/static/media/logo.632d447d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b5b9171.js",
+    "static/js/2.b374598e.chunk.js",
+    "static/css/main.c26d193d.chunk.css",
+    "static/js/main.733317b4.chunk.js"
+  ]
+}

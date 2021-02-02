@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b20adcd33576ae88f0f5c262569faac2",
+    "revision": "60e7c066e531b84611699a88ef2d494f",
     "url": "/thebridge/index.html"
   },
   {
-    "revision": "040dc314b2342dcc8011",
+    "revision": "fbd4e9c1ffcf0e936436",
     "url": "/thebridge/static/css/main.c26d193d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thebridge/static/js/2.b374598e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "040dc314b2342dcc8011",
-    "url": "/thebridge/static/js/main.09377a86.chunk.js"
+    "revision": "fbd4e9c1ffcf0e936436",
+    "url": "/thebridge/static/js/main.70c2c134.chunk.js"
   },
   {
     "revision": "1d85447a3e661e9906ad",

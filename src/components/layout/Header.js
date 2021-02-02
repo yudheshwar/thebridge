@@ -112,13 +112,13 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                    <a href="bridge/#correspondents" >Correspondents</a>
+                    <a href="#correspondents" >Correspondents</a>
                     </li>
                     <li>
-                      <a href="bridge/#webdeveloper" >Web Developers</a>
+                      <a href="#webdeveloper" >Web Developers</a>
                     </li>
                     <li>
-                      <a href="bridge/#designer" >Designer</a>
+                      <a href="#designer" >Designer</a>
                     </li>
                     <Button  className="button" tag="a" color="primary" wideMobile href="https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=thebridgepsg@psgtech.ac.in">
                         Contact us
